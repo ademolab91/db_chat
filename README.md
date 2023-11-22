@@ -1,10 +1,10 @@
 # db_chat
 
-TODO: What does this package do
+This app Provides an SQL chain to interact with a db
 
 ## Environment Setup
 
-TODO: What environment variables need to be set (if any)
+OPENAI_API_KEY=sk-...
 
 ## Usage
 
